@@ -12,7 +12,9 @@ I currently work as a freelancer.
 ### My projects
 
 **Minecraft related**
-- Soon
+- EpicMine Network
+- Ethelya Network
+- Meteor Studio
 
 **Other**
 - Soon
