@@ -3,6 +3,12 @@
 
 [![Hytale]([https://www.hytalespy.com/wp-content/uploads/2020/05/AgreeableRipeHusky-poster-1010x568.jpg](https://www.hytalespy.com/wp-content/uploads/2020/05/AgreeableRipeHusky-poster-1010x568.jpg))
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://www.hytalespy.com/wp-content/uploads/2020/05/AgreeableRipeHusky-poster-1010x568.jpg" alt=”mi banner”>
+
+</p>
+
 ## Hello there!
 <img align="right" src="https://github.com/cerus/cerus/blob/master/flying%20edina.gif?raw=true" width="302" height="190" />
 
