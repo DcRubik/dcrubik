@@ -9,11 +9,11 @@ I currently work as a freelancer.
 
 <br>
 
-### My projects
+### Working on:
 
 **Minecraft related**
 - EpicMine Network
-- Ethelya Network
+- Etherlya Network
 - Meteor Studio
 
 **Other**
