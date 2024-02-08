@@ -17,6 +17,11 @@ I currently work as a freelancer.
 **Other**
 - The Explorer (**Made in C#**)
 
+**Hobbies**
+- I like to compose music for videogames/servers.
+- I like playing basketball.
+- Hang out with friends.
+
 ### Contact
 
 Shoot me a message on Discord: [dcrubik](https://discord.com/users/796483120668868699) (originally DcRubik#8353)
