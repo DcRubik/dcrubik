@@ -15,7 +15,7 @@ I currently work as a freelancer.
 - EpicMine Network
 
 **Other**
-- The Adventurer (**Made in C#**)
+- The Explorer (**Made in C#**)
 
 ### Contact
 
