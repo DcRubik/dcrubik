@@ -3,7 +3,7 @@
 
 ## Hello there!
 
-My name is Jesús (Known as Simon) and I'm a software developer from Spain. I mainly work with Java in combination with Minecraft.
+My name is Jesús and I'm a software developer from Spain. I mainly work with Java in combination with Minecraft.
 
 I currently work as a freelancer.
 
@@ -15,7 +15,7 @@ I currently work as a freelancer.
 - EpicMine Network
 
 **Other**
-- Soon
+- The Adventurer (**Made in C#**)
 
 ### Contact
 
