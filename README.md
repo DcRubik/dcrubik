@@ -13,8 +13,6 @@ I currently work as a freelancer.
 
 **Minecraft related**
 - EpicMine Network
-- Etherlya Network
-- Meteor Studio
 
 **Other**
 - Soon
