@@ -13,6 +13,7 @@ I currently work as a freelancer.
 
 **Minecraft related**
 - EpicMine Network
+- Falsepixel Network
 
 **Other**
 - The Explorer (**Made in C#**)
