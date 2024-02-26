@@ -23,4 +23,4 @@ I currently work as a freelancer.
 
 Shoot me a message on Discord: [dcrubik](https://discord.com/users/796483120668868699) (originally DcRubik#8353)
 
-For more serious enquiries you can send an email to [hyliastudios@gmail.com](mailto:hyliastudios@gmail.com).
+For more serious enquiries you can send an email to [jesusalmandozz@gmail.com](mailto:jesusalmandozz@gmail.com).
