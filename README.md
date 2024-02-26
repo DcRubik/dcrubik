@@ -3,9 +3,9 @@
 
 ## Hello there!
 
-My name is Jesús and I'm a software developer from Spain. I mainly work with Java in combination with Minecraft.
+My name is Jesús and I'm a software developer from Spain.
 
-I currently work as a freelancer.
+Actually I'm able to do comissions.
 
 <br>
 
