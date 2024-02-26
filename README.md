@@ -11,11 +11,7 @@ I currently work as a freelancer.
 
 ### Working on:
 
-**Minecraft related**
-- EpicMine Network
-- Falsepixel Network
-
-**Other**
+**My Game**
 - The Explorer (**Made in C#**)
 
 **Hobbies**
