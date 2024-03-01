@@ -19,6 +19,14 @@ Actually I'm able to do comissions.
 - I like playing basketball.
 - Hang out with friends.
 
+<br>
+
+### My Goals:
+*The next things that are in this list are my future goals before I die*
+- Work on Hypixel
+- Be a musician (I like composing music)
+- Learn more languages.
+
 ### Contact
 
 Shoot me a message on Discord: [dcrubik](https://discord.com/users/796483120668868699) (originally DcRubik#8353)
