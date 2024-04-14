@@ -23,7 +23,6 @@ Actually I'm able to do comissions.
 
 ### My Goals:
 *The next things that are in this list are my future goals before I die*
-- Work on Hypixel
 - Be a musician (I like composing music)
 - Learn more languages.
 
