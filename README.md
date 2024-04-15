@@ -31,3 +31,13 @@ Actually I'm able to do comissions.
 Shoot me a message on Discord: [dcrubik](https://discord.com/users/796483120668868699) (originally DcRubik#8353)
 
 For more serious enquiries you can send an email to [jesusalmandozz@gmail.com](mailto:jesusalmandozz@gmail.com).
+
+<br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcrubik&theme=nord&layout=compact&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcrubik&show_icons=true&include_all_commits=true&count_private=true&theme=nord" />
+  </a>
+</p>
