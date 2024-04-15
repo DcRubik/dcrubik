@@ -8,6 +8,7 @@ My name is Jesús and I'm a software developer from Spain.
 Actually I'm able to do comissions.
 
 <br>
+
 ### Working on:
 
 **My Game**
@@ -19,6 +20,7 @@ Actually I'm able to do comissions.
 - Hang out with friends.
 
 <br>
+
 ### My Goals:
 *The next things that are in this list are my future goals before I die*
 - Be a musician (I like composing music)
