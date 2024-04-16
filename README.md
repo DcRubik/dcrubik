@@ -15,7 +15,7 @@ Actually I'm able to do comissions.
 - The Explorer (**Made in C#**)
 
 **Hobbies**
-- I like to compose music for videogames/servers.
+- I like to compose music.
 - I like playing basketball.
 - Hang out with friends.
 
@@ -28,9 +28,9 @@ Actually I'm able to do comissions.
 
 ### Contact
 
-Shoot me a message on Discord: [dcrubik](https://discord.com/users/796483120668868699)
+Send me a message on Discord: [dcrubik](https://discord.com/users/796483120668868699)
 
-For more serious enquiries you can send an email to [jesusalmandozz@gmail.com](mailto:jesusalmandozz@gmail.com).
+If you need something more formal, just type me in [jesusalmandozz@gmail.com](mailto:jesusalmandozz@gmail.com).
 
 <br>
 <p align="center">
