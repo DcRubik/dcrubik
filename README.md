@@ -3,7 +3,7 @@
 
 ## Hello there!
 
-My name is Jesús and I'm a software developer from Spain.
+My name is Jesús and I'm from Spain. Im currently learning Java. JavaScript, Python...
 
 Actually I'm able to do comissions.
 
@@ -12,7 +12,7 @@ Actually I'm able to do comissions.
 ### Working on:
 
 **ZelCraft**
-- https://Www.zelcraft.net
+- https://www.zelcraft.net
 
 **Hobbies**
 - I like to compose music.
