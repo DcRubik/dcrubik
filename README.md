@@ -5,7 +5,7 @@
 
 My name is Jesús and I'm from Spain. Im currently learning Java. JavaScript, Python...
 
-Actually I'm able to do comissions.
+Actually I'm not able to do comissions. So busy sorry.
 
 <br>
 
