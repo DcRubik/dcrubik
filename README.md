@@ -33,11 +33,3 @@ Send me a message on Discord: [dcrubik](https://discord.com/users/79648312066886
 If you need something more formal, just type me in [jesusalmandozz@gmail.com](mailto:jesusalmandozz@gmail.com).
 
 <br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcrubik&theme=nord&layout=compact&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcrubik&show_icons=true&include_all_commits=true&count_private=true&theme=nord" />
-  </a>
-</p>
