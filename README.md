@@ -5,7 +5,7 @@
 
 # ⚡ Hello there! I'm Jesús
 
-[![YouTube](https://img.shields.io/badge/YouTube-DcRubik-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dcrubik_)
+[![YouTube](https://img.shields.io/badge/YouTube-DcRubik-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@spuuns)
 [![Discord](https://img.shields.io/badge/Discord-dcrubik-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/796483120668868699)
 
 </div>
@@ -22,7 +22,6 @@ I'm a developer from **Spain**. I love building things, customizing my setup, an
 | :--- | :--- |
 | **OS** | ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white) |
 | **Desktop** | ![Acer Predator](https://img.shields.io/badge/Acer_Predator-004E8C?style=flat-square&logo=acer&logoColor=white) |
-| **Shell** | ![Zsh](https://img.shields.io/badge/Zsh-000000?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **IDE** | ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
 | **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Browser** | ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=brave&logoColor=white) |
