@@ -1,35 +1,53 @@
-<!--![Cat](https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true)-->
-[![YouTube](https://img.shields.io/badge/YouTube-DcRubik-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)]([https://youtube.com/dcrubik](https://www.youtube.com/@dcrubik_)) ![OS](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=777777) ![Shell](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=linux&logoColor=white&color=777777) ![OS](https://img.shields.io/badge/Desktop-KDE-informational?style=flat&logo=kde&logoColor=white&color=777777) ![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=777777) ![Java](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=777777) ![Game](https://img.shields.io/badge/Game-Minecraft-informational?style=flat&logo=mojangstudios&logoColor=white&color=777777) ![Browser](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=777777)
+<div align="center">
 
-## Hello there!
+<!-- Si quieres volver a activar el gato, solo quita los comentarios de abajo -->
+<!-- <img src="https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true" width="200" alt="Cat GIF"> -->
 
-My name is Jesús and I'm from Spain. Im currently learning Java. JavaScript, Python...
+# ⚡ Hello there! I'm Jesús
 
-Actually I'm not able to do comissions. So busy sorry.
+[![YouTube](https://img.shields.io/badge/YouTube-DcRubik-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dcrubik_)
+[![Discord](https://img.shields.io/badge/Discord-dcrubik-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/796483120668868699)
 
-<br>
+</div>
 
-### Working on:
+---
 
-**Wyrven**
-- https://wyrven.net
+### 👤 About Me
+I'm a developer from **Spain**. I love building things, customizing my setup, and diving into code. 
+*Note: I am currently **not** available for commissions. Too busy at the moment, sorry!* 🦜
 
-**Hobbies**
-- I like to compose music.
-- I like playing basketball.
-- Hang out with friends.
+### 🛠️ My Tech Stack & Setup
 
-<br>
+| Category | Technology / Tool |
+| :--- | :--- |
+| **OS** | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) |
+| **Desktop** | ![KDE](https://img.shields.io/badge/KDE_Plasma-22A7F2?style=flat-square&logo=kde&logoColor=white) |
+| **Shell** | ![Zsh](https://img.shields.io/badge/Zsh-000000?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **IDE** | ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
+| **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Browser** | ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=brave&logoColor=white) |
+| **Gaming** | ![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=flat-square&logo=mojang-studios&logoColor=white) |
 
-### My Goals:
-*The next things that are in this list are my future goals before I die*
-- Be a musician (I like composing music)
-- Learn more languages.
+---
 
-### Contact
+### 🚀 Working on
+* **Wyrven**: Check out what we are building at [wyrven.net](https://wyrven.net)
 
-Send me a message on Discord: [dcrubik](https://discord.com/users/796483120668868699)
+### 🎵 Hobbies
+* 🎼 Composing music
+* 🏀 Playing basketball
+* 👥 Hanging out with friends
 
-If you need something more formal, just type me in [jesusalmandozz@gmail.com](mailto:jesusalmandozz@gmail.com).
+### 🎯 Life Goals
+*The ultimate bucket list:*
+- [ ] Become a professional musician.
+- [ ] Learn more languages (both coding and human languages!).
 
-<br>
+---
+
+### 📬 Contact Me
+
+If you want to chat or collaborate, feel free to reach out:
+
+* **Discord:** Add me as [`dcrubik`](https://discord.com/users/796483120668868699)
+* **Email:** For more formal matters, hit me up at [jesusalmandozz@gmail.com](mailto:jesusalmandozz@gmail.com)
