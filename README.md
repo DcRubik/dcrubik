@@ -25,7 +25,7 @@ I'm a developer from **Spain**. I love building things, customizing my setup, an
 | **IDE** | ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
 | **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Browser** | ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=brave&logoColor=white) |
-| **Gaming** | ![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=flat-square&logo=mojang-studios&logoColor=white) |
+| **Gaming** | ![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=flat-square&logo=mojang-studios&logoColor=white) ![Fortnite](https://img.shields.io/badge/Fortnite-31B2F7?style=flat-square&logo=fortnite&logoColor=white) ![Hytale](https://img.shields.io/badge/Hytale-DFB15B?style=flat-square&logo=hypixel&logoColor=white) |
 
 ---
 
