@@ -13,7 +13,7 @@
 ---
 
 ### 👤 About Me
-I'm a developer from **Spain**. I love building things, customizing my setup, and diving into code. 
+I'm a Junior Developer from **Spain**. I love building things, customizing my setup, and diving into code. 
 *Note: I am currently **not** available for commissions. Too busy at the moment, sorry!* 🦜
 
 ### 🛠️ My Tech Stack & Setup
@@ -28,9 +28,6 @@ I'm a developer from **Spain**. I love building things, customizing my setup, an
 | **Gaming** | ![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=flat-square&logo=mojang-studios&logoColor=white) ![Fortnite](https://img.shields.io/badge/Fortnite-31B2F7?style=flat-square&logo=fortnite&logoColor=white) ![Hytale](https://img.shields.io/badge/Hytale-DFB15B?style=flat-square&logo=hypixel&logoColor=white) |
 
 ---
-
-### 🚀 Working on
-* **Wyrven**: Check out what we are building at [wyrven.net](https://wyrven.net)
 
 ### 🎵 Hobbies
 * 🎼 Composing music
