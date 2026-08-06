@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Si quieres volver a activar el gato, solo quita los comentarios de abajo -->
-<img src="https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true" width="200" alt="Cat GIF">
+<!-- <img src="https://github.com/RealCerus/RealCerus/blob/master/flying%20edina.gif?raw=true" width="200" alt="Cat GIF">  -->
 
 # ⚡ Hello there! I'm Jesús
 
