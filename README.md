@@ -14,7 +14,7 @@
 
 ### 👤 About Me
 I'm a Junior Developer from **Spain**. I love building things, customizing my setup, and diving into code. 
-*Note: I am currently **not** available for commissions. Too busy at the moment, sorry!* 🦜
+*Note: I am currently **looking for job**!* 🦜
 
 ### 🛠️ My Tech Stack & Setup
 
