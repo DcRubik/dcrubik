@@ -2,12 +2,12 @@
 
 # ⚡ Hey! I'm Jesús (aka DcRubik)
 
-🎮 Professional Minecraft enjoyer | 💻 Code wizard in training | 🎵 Music guy
+🎮 Minecraft enjoyer | 💻 Developer in progress | 🎵 Music guy
 
 [![YouTube](https://img.shields.io/badge/YouTube-DcRubik-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@spuuns)
 [![Discord](https://img.shields.io/badge/Discord-dcrubik-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/796483120668868699)
 
-*Turning caffeine, random ideas and questionable life decisions into code since... well, a while ago.*
+*Turning caffeine, random ideas and questionable life decisions into code.*
 
 </div>
 
@@ -38,13 +38,13 @@ I'm also into music, basketball and hanging out with friends. Basically, I have 
 
 | Category | Technology / Tool |
 | :--- | :--- |
-| **OS** | ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white) |
+| **OS** | ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white) |
 | **Desktop** | ![Acer Predator](https://img.shields.io/badge/Acer_Predator-004E8C?style=flat-square&logo=acer&logoColor=white) |
-| **IDEs / Editors** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) |
-| **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Browser** | ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=brave&logoColor=white) |
-| **Games** | ![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=flat-square&logo=mojang-studios&logoColor=white) ![Fortnite](https://img.shields.io/badge/Fortnite-31B2F7?style=flat-square&logo=fortnite&logoColor=white) ![Hytale](https://img.shields.io/badge/Hytale-DFB15B?style=flat-square&logo=hypixel&logoColor=white) |
+| **IDEs / Editors** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) |
+| **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Browser** | ![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| **Games** | ![Minecraft](https://img.shields.io/badge/Minecraft-3C8527?style=flat-square&logo=minecraft&logoColor=white) ![Fortnite](https://img.shields.io/badge/Fortnite-313131?style=flat-square&logo=fortnite&logoColor=white) ![Hytale](https://img.shields.io/badge/Hytale-DAA520?style=flat-square&logoColor=white) |
 
 ---
 
@@ -54,7 +54,6 @@ I'm also into music, basketball and hanging out with friends. Basically, I have 
 - ⛏️ Developing Minecraft-related projects.
 - 🧪 Experimenting with new technologies.
 - 🎵 Making music whenever the coding brain needs a break.
-- 🏀 Playing basketball and touching grass occasionally.
 
 *Main quest: become a better developer without losing my sanity.*
 
